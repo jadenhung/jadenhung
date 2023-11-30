@@ -1,4 +1,5 @@
-# **Welcome!**
+# **Welcome! 🧧**
+I'm Jaden and I'm currently a student from Toronto, Canada 🇨🇦. I'm studying to become a full stack developer.
 
 
 <!--
