@@ -1,5 +1,5 @@
 # **Welcome!**
-I'm Jaden and I'm a student from Toronto, Canada <img src="https://raw.githubusercontent.com/jadenhung/jadenhung/main/assets/ca.svg" height="1em" align="center" alt="CA" title="CA"/>. I'm studying to become a full stack developer.
+I'm Jaden and I'm a student from Toronto, Canada <img src="https://raw.githubusercontent.com/jadenhung/jadenhung/main/assets/ca.svg" height="15em" alt="CA" title="CA"/>. I'm studying to become a full stack developer.
 
 
 <!--
