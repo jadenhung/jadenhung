@@ -1,5 +1,5 @@
-# **Welcome! 🧧**
-I'm Jaden and I'm currently a student from Toronto, Canada 🇨🇦. I'm studying to become a full stack developer.
+# **Welcome! ![Hi](https://github.com/jadenhung/jadenhung/assets/90120177/820ab349-5da1-4f07-b0c4-35e705970b0b)**
+I'm Jaden and I'm a student from Toronto, Canada 🇨🇦. I'm studying to become a full stack developer.
 
 
 <!--
